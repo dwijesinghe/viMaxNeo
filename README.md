@@ -16,7 +16,7 @@ Clone the `viMaxNeo` repo:
  git clone https://github.com/dwijesinghe/viMaxNeo.git
 ```
 To Update:
-Run git pull from within ~/vimfiles/bundle/viMaxNeo/
+Run git pull from within the `viMaxNeo` directory
 
 ## Install using Zip file
 
