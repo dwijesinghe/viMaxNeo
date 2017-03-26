@@ -6,27 +6,11 @@ Hopefully this will ease the strain on your eyes, fellow Neovimmers 8)
 
 # Installation
 
-## Install using Pathogen (Skip to step 4 if you already have Pathogen)
+## Install using Pathogen
 
 viMaxNeo is packaged to be easily downloadable/updateable via the Pathogen plugin.
 
-1. Install [pathogen.vim] into `~/.vim/autoload/` (see [pathogen's
-   readme][install-pathogen] for more information.)
-
-[pathogen.vim]: http://www.vim.org/scripts/script.php?script_id=2332
-[install-pathogen]: https://github.com/tpope/vim-pathogen#installation
-
-2. Enable pathogen in your vimrc:
-
-   ```vim
-   call pathogen#infect()
-   ```
-
-3. Create the directory `~/vimfiles/bundle/`:
-
-        mkdir ~/vimfiles/bundle
-
-4. Clone the `viMaxNeo` repo into `~/vimfiles/bundle/`:
+Clone the `viMaxNeo` repo into `~/vimfiles/bundle/`:
 
         git clone https://github.com/dwijesinghe/viMaxNeo.git ~/vimfiles/bundle/viMaxNeo/
 
