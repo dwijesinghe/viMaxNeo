@@ -12,8 +12,9 @@ viMaxNeo is packaged to be easily downloadable/updateable via the Pathogen plugi
 
 Clone the `viMaxNeo` repo:
 
-        git clone https://github.com/dwijesinghe/viMaxNeo.git
-
+```
+ git clone https://github.com/dwijesinghe/viMaxNeo.git
+```
 To Update:
 Run git pull from within ~/vimfiles/bundle/viMaxNeo/
 
