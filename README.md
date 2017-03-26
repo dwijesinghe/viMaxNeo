@@ -4,7 +4,7 @@ Neovim version of my original viMax plugin for enabling the + and - keys to chan
 
 Hopefully this will ease the strain on your eyes, fellow Neovimmers 8)
 
-#Installation
+# Installation
 
 ## Install using Pathogen (Skip to step 4 if you already have Pathogen)
 
