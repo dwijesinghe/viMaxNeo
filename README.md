@@ -41,14 +41,14 @@ The plugin can also be installed by downloading the zip file and copying the vim
  :source ~/viMaxNeo.vim
  ```
 
-#Usage
+# Usage
 
 Once installed, the + and - keys should increase/decrease your font size when in command mode in Neovim. As far as I can see from initial testing, changing fonts in Neovim seems to be much slower than changing fonts in Vim (this may be due to the new `GuiFont` command as opposed to the old `set guifont` command. If anyone knows how to improve the response time of this plugin feel free to let me know or submit a pull request. 
 
 Font size is changed in increments of 1. Please not that not all fonts in Neovim support all sizes (using this plugin with the Fixedsys font will be somewhat disappointing). Also, like the original Vim, Neovim only supports fixed width fonts at this time.
 
 
-##Contributing
+## Contributing
 I welcome collaboration. Please maintain the general style of code and always feel free to poke me for additional information.
 
 
